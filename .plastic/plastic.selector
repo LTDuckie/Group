@@ -1,0 +1,4 @@
+repository "My project/My project@33262675551067@cloud"
+  path "/"
+    br "/main"
+    co "/main"
